@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
@@ -90,3 +91,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# product-preview-card-component
+This is a simple preview card challenge from front end mentor  made by CSS FlexBox
+>>>>>>> a60397914e0b063c78cde33250f3b22eaadc26e8
