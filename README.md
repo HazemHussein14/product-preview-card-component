@@ -15,4 +15,4 @@ Thanks for checking out this front-end coding challenge.
 
 Your challenge is to build out this product preview card component and get it looking as close to the design as possible.
 
-live Demo: https://hazemhussein14.github.io/product-preview-card-component/
+[live Demo: https](//hazemhussein14.github.io/product-preview-card-component/)
